@@ -1,2 +1,2 @@
 # MathCodes
-Multiple math codes to solve differential equations, or integrate, etc etc
+Runge-Kutta 4th order, Montecarlo integration and euler's method.
